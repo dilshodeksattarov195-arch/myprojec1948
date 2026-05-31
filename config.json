@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpync",
+        "uuid": 11234116,
+        "checksum": "j1lcplj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
